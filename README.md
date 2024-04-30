@@ -15,6 +15,6 @@ Run in order:
 - apply Cell Key Method for protection
 - calculate a collection of information loss measures
 
-functions_ckm_raster.R and functions_infoloss_raster.R are not run directly, but sourced in 02ckm_protect_and_analyse.R; they contains helper functions for using the Cell Key Method on population grids and implementing information loss measures.
+functions_ckm_raster.R and functions_infoloss_raster.R are not run directly, but sourced in 02ckm_protect_and_analyse.R; they contain helper functions for using the Cell Key Method on population grids and for implementing information loss measures.
 
 Contact: Martin Möhler (martin.moehler@destatis.de)
